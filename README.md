@@ -127,6 +127,11 @@ HUGGINGFACE_API_TOKEN=your_huggingface_token
 - **Performance**: Fast similarity search and response generation
 - **Flexibility**: Supports various document types and complex queries
 
+## Demo
+
+<img width="1362" height="577" alt="1" src="https://github.com/user-attachments/assets/1bba6c85-6ecd-4807-8840-2076a73e25bc" />
+<img width="1344" height="561" alt="2" src="https://github.com/user-attachments/assets/7b68f32e-4f76-4d68-a36d-8cd83c0e6fc8" />
+
 ## 🤝 Contributing
 
 1. Fork the repository
@@ -148,9 +153,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [https://github.com/your-username/chat-with-your-doc](https://github.com/your-username/chat-with-your-doc)
+Project Link: [https://github.com/TechSlinger/Chat-with-your-docs]
 
 ---
 
